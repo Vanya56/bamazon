@@ -2,6 +2,9 @@
 
 The goal was to create an Amazon-like store front using Node.js and MySQL.
 
+# View demo of this app:
+https://drive.google.com/file/d/11Ax0GWkZfd7sSY3A_gIep06yp8lT1Q3Y/view
+
 # Getting Started
 * Clone repo.
 * Run command in Terminal or Gitbash 'npm install'
@@ -30,10 +33,3 @@ If the purchase goes through, it updates the stock quantity to reflect the purch
 * Add New Product
 * End Session
 
-# Technologies used
-Node.js
-Inquire NPM Package (https://www.npmjs.com/package/inquirer)
-MYSQL NPM Package (https://www.npmjs.com/package/mysql)
-Prerequisites
-- Node.js - Download the latest version of Node https://nodejs.org/en/
-- Create a MYSQL database called 'Bamazon', reference schema.sql
